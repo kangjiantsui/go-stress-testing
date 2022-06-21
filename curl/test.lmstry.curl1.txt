@@ -1,0 +1,2 @@
+curl --location --request PUT '134.175.186.173:7777/api/test-ns/stress?ttl=20' \
+--header 'X-Token: 01G5V1NT0Z94ZTQJA2A8EN0SJS'
